@@ -1,1 +1,21 @@
 # WNBA_MiniProject
+
+### Project Amsterdam IHDAFT 2020
+
+The purpose of this project is to analyse a Dataset and test hypothesis .
+
+Programming part of the project is done on Python 3.
+
+**Data source:**
+- 
+
+**Project structure:**
+- Data-Cleaning.ipynb
+- Exploratory-Data.ipynb
+- Inferential-statistics.ipynb
+
+Each separate par of the Jupyter notebooks has been worked by a designated member of the team and then consolidated in this repository 
+
+**Calculations and assumptions:**
+
+
