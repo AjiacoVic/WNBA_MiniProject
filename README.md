@@ -7,7 +7,7 @@ The purpose of this project is to analyse a Dataset and test hypothesis .
 Programming part of the project is done on Python 3.
 
 **Data source:**
-- 
+- dataset containing data related to the players of the WNBA for the 2016-2017
 
 **Project structure:**
 - Data-Cleaning.ipynb
