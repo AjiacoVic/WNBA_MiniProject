@@ -14,9 +14,14 @@ Programming part of the project is done on Python 3.
 - Data-Cleaning.ipynb
 - Exploratory-Data.ipynb
 - Inferential-statistics.ipynb
+- Story-telling 
 
 Each separate par of the Jupyter notebooks has been worked by a designated member of the team and then consolidated in this repository 
 
 **Calculations and assumptions:**
+- Confidence intervals
+- Hypothesis testing using two-tailed one-sample t-test
 
+**Story telling **
+- What is the key to success for a WNBA team?
 
