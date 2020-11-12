@@ -24,4 +24,6 @@ Each separate par of the Jupyter notebooks has been worked by a designated membe
 
 **Story telling **
 - What is the key to success for a WNBA team?
+Link to Tableau : https://public.tableau.com/profile/alexandra1124#!/vizhome/WNBA-Keystosuccess/Dashboard1?publish=yes
+
 
