@@ -23,7 +23,10 @@ Each separate par of the Jupyter notebooks has been worked by a designated membe
 - Hypothesis testing using two-tailed one-sample t-test
 
 **Story telling **
-- 
-Link to Tableau : https://public.tableau.com/profile/alexandra1124#!/vizhome/WNBA-Keystosuccess/Dashboard1?publish=yes
+-Does making 3 points matter? Research on importance of 3 pointers.
+
+
+
+
 
 
